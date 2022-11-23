@@ -9,3 +9,8 @@ We created four elements: city, state, country, and shape, to allow us to search
 
 ## Results
 This dataset would not be very functional for someone who is not extremely familiar with dataset, as you must know what to search for. It is useful to allow us to use filtering processes to find and explore data more easily. 
+
+
+
+![Screen Shot 2022-11-23 at 2 07 18 PM](https://user-images.githubusercontent.com/108203009/203628196-e650428f-0510-426b-bd1e-2d0e96557389.png)
+
